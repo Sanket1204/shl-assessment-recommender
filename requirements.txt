@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+faiss-cpu
+sentence-transformers
+streamlit
+requests
+python-dotenv
+SQLAlchemy
+psycopg2-binary
+reportlab
+PyPDF2
