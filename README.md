@@ -1,17 +1,3 @@
-It includes:
-
-* ✨ Clean branding & overview
-* 🧱 Architecture diagram
-* 🚀 Quickstart
-* 🔧 Tech stack
-* 📦 API routes
-* 🌐 Frontend preview
-* 🧩 Feature list
-* 📚 Future improvements
-* 📝 License section placeholder
-
-Feel free to tell me if you want this branded for your portfolio or company.
-
 ---
 
 # 🧠 SHL Assessment Recommendation Engine
