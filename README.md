@@ -285,8 +285,3 @@ Pull requests are welcome!
 If you’d like new features (AI scoring, embeddings retraining, etc.), feel free to open an issue.
 
 ---
-
-# 📝 License
-
-This project is licensed under the **MIT License**.
-You may modify and use it for personal or commercial purposes.
