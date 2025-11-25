@@ -156,6 +156,9 @@ uvicorn app.main:app --reload
 ```bash
 streamlit run frontend/streamlit_app.py
 ```
+<img width="1861" height="737" alt="image" src="https://github.com/user-attachments/assets/852cdeb1-e5d1-4c98-a109-f77f81e8016e" />
+
+<img width="1838" height="671" alt="image" src="https://github.com/user-attachments/assets/ff309c71-54e9-436d-9f00-ba11da79e6f2" />
 
 ---
 
